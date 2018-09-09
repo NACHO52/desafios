@@ -1,0 +1,6 @@
+
+.title{padding-top: 2em; text-align: center; font-size: 25px}
+.sub-title{padding-top: 1em; text-align: center; padding-bottom: 1em}
+#emailContainer{padding-left: 10em; padding-right: 10em}
+.warning-message-wrong{color: red}
+.warning-message-good{color: green}
