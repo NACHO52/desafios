@@ -1,0 +1,7 @@
+.container{margin-top: 10%; width: 70%}
+.btnColumn{text-align: center}
+#btnSend{width: 50%}
+.oculto{visibility: hidden}
+.entradas{margin-bottom: -18px !important;}
+.msgWarning{margin-bottom: 15px; font-style: italic}
+#txtComentario{height: 100px; max-height: 15em; min-height: 4em}
