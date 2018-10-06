@@ -11,14 +11,12 @@ function getData (url, callback) {
             }
       })
       .fail(function (error) {
-        callback(error)
-      })
-  }
+        callback(error);
+      });
+    }
 
-  getData("https://swapi.co/api/people/", function(status, data){
-        
+getData("https://swapi.co/api/people/", function(status, data){        
   });
-
   function showNames(data){
     for(var i = 0; i < data.results.length; i++)
     {
